@@ -1,2 +1,2 @@
 # HOSPITAL SHOP #
-hospital-
+hospital-shop
